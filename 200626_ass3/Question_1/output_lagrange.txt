@@ -1,0 +1,6 @@
+Interpolated values of y at given x* 
+Lagrange Polynomials : 
+-0.8000 -0.3793
+-0.2000 0.8342
+0.2000 0.8342
+0.8000 -0.3793
